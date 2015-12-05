@@ -1,0 +1,6 @@
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\bin\Debug\SerializingDataBlogPost.exe.config
+C:\Users\Frank\Documents\Visual Studio 2015\Projects\SerializingDataBlogPost\SerializingDataBlogPost\bin\Debug\SerializingDataBlogPost.exe.config
+C:\Users\Frank\Documents\Visual Studio 2015\Projects\SerializingDataBlogPost\SerializingDataBlogPost\bin\Debug\SerializingDataBlogPost.exe
+C:\Users\Frank\Documents\Visual Studio 2015\Projects\SerializingDataBlogPost\SerializingDataBlogPost\bin\Debug\SerializingDataBlogPost.pdb
+C:\Users\Frank\Documents\Visual Studio 2015\Projects\SerializingDataBlogPost\SerializingDataBlogPost\obj\Debug\SerializingDataBlogPost.exe
+C:\Users\Frank\Documents\Visual Studio 2015\Projects\SerializingDataBlogPost\SerializingDataBlogPost\obj\Debug\SerializingDataBlogPost.pdb

@@ -1,0 +1,6 @@
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\bin\Debug\SerializatingDataBlogPost.exe.config
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\bin\Debug\SerializatingDataBlogPost.exe
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\bin\Debug\SerializatingDataBlogPost.pdb
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\obj\Debug\SerializatingDataBlogPost.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\obj\Debug\SerializatingDataBlogPost.exe
+c:\users\frank\documents\visual studio 2015\Projects\SerializatingDataBlogPost\SerializatingDataBlogPost\obj\Debug\SerializatingDataBlogPost.pdb

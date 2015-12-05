@@ -1,0 +1,8 @@
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\bin\Debug\SerializingJSONBlogPost.exe.config
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\bin\Debug\SerializingJSONBlogPost.exe
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\bin\Debug\SerializingJSONBlogPost.pdb
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\bin\Debug\Newtonsoft.Json.dll
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\bin\Debug\Newtonsoft.Json.xml
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\obj\Debug\SerializingJSONBlogPost.csprojResolveAssemblyReference.cache
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\obj\Debug\SerializingJSONBlogPost.exe
+c:\users\frank\documents\visual studio 2015\Projects\SerializingJSONBlogPost\SerializingJSONBlogPost\obj\Debug\SerializingJSONBlogPost.pdb
