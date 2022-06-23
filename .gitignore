@@ -43,3 +43,6 @@ Temporary Items
 .apdisk
 
 .vs
+obj
+bin
+Debug
